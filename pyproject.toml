@@ -1,0 +1,15 @@
+[project]
+name = "acoes-dashboard"
+version = "0.1.0"
+description = "Dashboard de ações da B3"
+authors = [
+    {name = "delamano",email = "delamano@live.com"}
+]
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

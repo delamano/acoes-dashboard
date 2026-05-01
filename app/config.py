@@ -1,0 +1,1 @@
+# lê as variáveis do .env
